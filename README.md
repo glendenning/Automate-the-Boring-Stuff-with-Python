@@ -1,9 +1,9 @@
 # Automate the boring stuff with Python
 
 ## Part I - Python Programming Basics  (0/6)  
-[ ] Python Basics  
-[ ] Flow Control  
-[ ] Functions  
+[X] Python Basics  
+[X] Flow Control  
+[X] Functions  
 [ ] Lists  
 [ ] Dictionaries and Structuring Data  
 [ ] Manipulating Strings
